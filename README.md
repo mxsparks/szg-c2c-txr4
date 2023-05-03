@@ -2,7 +2,7 @@
 
 A board-to-board connector supporting the high-speed SERDES I/O of two [SYZYGY](https://syzygyfpga.io)-compatible FPGA carrier cards, with an onboard PCIe reference clock.
 
-![alt-text](images/szg-c2c-txr4-bottom.pmg "Rendering of the component side of a populated SZG-C2C-TXR4 rev.A board")
+![alt-text](images/szg-c2c-txr4-bottom.png "Rendering of the component side of a populated SZG-C2C-TXR4 rev.A board")
 ![alt-text](images/szg-c2c-txr4-top.png "Rendering of the backside of a populated SZG-C2C-TXR4 rev.A board")
 
 ## Overview

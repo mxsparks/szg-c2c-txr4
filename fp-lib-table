@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "szg-c2c-txr4")(type "KiCad")(uri "${KIPRJMOD}/szg-c2c-txr4.pretty")(options "")(descr ""))
+)

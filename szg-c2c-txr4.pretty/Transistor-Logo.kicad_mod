@@ -1,0 +1,62 @@
+(footprint "Transistor-Logo" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd board_only exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
+  (fp_text reference "G**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.1)))
+    (tstamp 3afbdd4c-48f6-495e-a3c3-7a938df7e70c)
+  )
+  (fp_text value "Transistor-Logo" (at 0 1 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 4821fdde-5cd0-436a-a0ea-db61aadaa25c)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 492fd93c-8e1f-43e8-894e-645431666d5a)
+  )
+  (fp_line (start -1.734375 -1.969435) (end -1.998958 -1.793064)
+    (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp 3ed722d3-dd15-4f24-8cc1-bc1ef95ee57a))
+  (fp_line (start -1.3375 -1.782031) (end -1.998958 -1.352083)
+    (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp 2c16b720-cbb5-4245-b2dc-1c982aa43712))
+  (fp_line (start -0.907552 -1.616666) (end -1.998958 -0.889062)
+    (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp 26e876d8-0c4c-4134-b11e-37b78b6e75ce))
+  (fp_line (start -0.676041 1.955209) (end 0.646875 1.955209)
+    (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp b967abd6-1e06-49c4-91df-fa63bd47c667))
+  (fp_line (start -0.279166 0.5) (end -1.453255 -1.252864)
+    (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp 4ede545b-7014-431a-9ff0-5deb38be225b))
+  (fp_line (start -0.014583 0.5) (end -0.014583 2.616667)
+    (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp bcdf1668-f8e1-491c-8377-a994ec3fb51f))
+  (fp_line (start 0.25 0.5) (end 1.8375 -1.881249)
+    (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp 36c786da-143e-4fd8-904d-2bcd1955bca9))
+  (fp_line (start 0.779167 0.5) (end -0.808333 0.5)
+    (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp a62a68a8-fafb-472d-bfe4-76c4be120371))
+  (fp_line (start 1.8375 -1.881249) (end 0.878386 -1.616666)
+    (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp 83b8f536-b319-4b1b-966a-e77b8d9e66d2))
+  (fp_line (start 1.969792 -0.889062) (end 1.8375 -1.881249)
+    (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp ad0e9624-9ee8-4d6e-ba1d-fe496446b815))
+  (fp_circle (center -0.014375 -0.029435) (end 1.308625 -0.029435)
+    (stroke (width 0.15) (type solid)) (fill none) (layer "F.SilkS") (tstamp 201d7cb7-2154-48dc-9ea6-251158d27fd9))
+  (fp_poly
+    (pts
+      (xy -0.477604 -0.260677)
+      (xy -0.907552 0.03698)
+      (xy -1.039843 -0.641015)
+    )
+
+    (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 4c2c6b08-0174-4b6d-8c00-fd63f53b8a33))
+  (group "TRANSISTOR" (id 76f0300b-2b11-4e4d-ad0e-4ff0b8aacd8a)
+    (members
+      201d7cb7-2154-48dc-9ea6-251158d27fd9
+      26e876d8-0c4c-4134-b11e-37b78b6e75ce
+      2c16b720-cbb5-4245-b2dc-1c982aa43712
+      36c786da-143e-4fd8-904d-2bcd1955bca9
+      3ed722d3-dd15-4f24-8cc1-bc1ef95ee57a
+      4c2c6b08-0174-4b6d-8c00-fd63f53b8a33
+      4ede545b-7014-431a-9ff0-5deb38be225b
+      83b8f536-b319-4b1b-966a-e77b8d9e66d2
+      a62a68a8-fafb-472d-bfe4-76c4be120371
+      ad0e9624-9ee8-4d6e-ba1d-fe496446b815
+      b967abd6-1e06-49c4-91df-fa63bd47c667
+      bcdf1668-f8e1-491c-8377-a994ec3fb51f
+    )
+  )
+)

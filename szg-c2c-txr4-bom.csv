@@ -1,5 +1,11 @@
-Quantity,Reference Designators,Manufacturer,Manufacturer Part #,Description,Footprint
-21,"C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C12,C13,C14,C15,C16,C17,C18,C19,C20,C21",Kemet,C0402C104K9PAC7867,CAP CER 0.1UF 6.3V X5R 0402,C_0402_1005Metric
-2,"J1,J2",Samtec,QTH-020-01-F-D-DP-A,CONN DIFF ARRAY PLG 40P SMD GOLD,SYZYGY-TXR4
-1,J3,Amphenol,G800W306018EU,"PIN HEADER 2.54MM PITCH STR,1X2P",PinHeader_1x02_P2.54mm_Vertical
-1,U1,Microchip,DSC557-0333FI1T,2-OUTPUT MEMS PCIE GEN1/2/3/4 CL,VQFN14_2.5x3.2x0.9m_EP1.4x2.1mm
+Quantity,Reference Designators,JLCPCB Part #,Description,Manufacturer,Manufacturer Part #
+20,"C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C12,C13,C14,C15,C16,C18,C19,C20,C21",C1525,16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,Samsung,CL05B104KO5NNNC
+1,C17,C15195,50V 10nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,Samsung,CL05B103KB5NNNC
+2,"C22,C23",C1864375,50V 8pF C0G ±1% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,Murata,GCM1555C1H8R0FA16D
+2,"J1,J2",C3654517,"40 Position Connector Differential Pair Array, Male Surface Mount Gold",Samtec,QTH-020-01-F-D-DP-A-K-TR
+2,"J3,J4",C390678,"3A Straight Square Pins 2.5mm 6.1mm 3mm 2 2.54mm Single Row Black Brass 1x2P Plugin,P=2.54mm Pin Headers ROHS",Pinrex,210-91-02GB01
+2,"R1,R4",C25076,62.5mW Thick Film Resistors ±1% 100Ω 0402 Chip Resistor - Surface Mount ROHS,Uniroyal,0402WGF1000TCE
+4,"R2,R3,R5,R6",C25082,62.5mW Thick Film Resistors ±1% 150Ω 0402 Chip Resistor - Surface Mount ROHS,Uniroyal,0402WGF1500TCE
+1,R7,C25117,62.5mW Thick Film Resistors ±1% 470Ω 0402 Chip Resistor - Surface Mount ROHS,Uniroyal,0402WGF4700TCE
+1,U1,C500785,200MHz 2 TSSOP-16 Clock Generators / Frequency Synthesizers / PLL ROHS,Diodes Inc.,PI6C557-03LEX
+1,Y1,C9006,25MHz 12pF ±10ppm ±30ppm SMD3225-4P Crystals ROHS,Yangxing Tech,X322525MOB4SI
